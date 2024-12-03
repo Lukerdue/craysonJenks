@@ -1,8 +1,9 @@
 import React from 'react';
+import { Headerstyle } from '../styles/headerstyle'
 
 function Header(){
     return(
-        <header className="header">
+        <Headerstyle className="header">
             <div className="header-left">
                 <h1 className="title">Crayson Jenks</h1>
             </div>
@@ -15,7 +16,7 @@ function Header(){
                     </ul>
                 </div>
             </div>
-        </header>
+        </Headerstyle>
     )
 }
 
