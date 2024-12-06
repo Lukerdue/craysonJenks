@@ -49,4 +49,8 @@ table {
 	border-spacing: 0;
 }
 
-/* end reset */
+/* End Meyer Web Reset*/
+
+*{
+	box-sizing: border-box;
+}

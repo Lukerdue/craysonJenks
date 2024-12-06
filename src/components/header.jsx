@@ -13,6 +13,13 @@ function Header(){
                         <li className="menu-item">
                             <a href="/" className="menu-a">Home</a>
                         </li>
+                        <li className="menu-item">
+                            <a href="/projects" className="menu-a">Projects</a>
+                        </li>
+                        <li className="menu-item">
+                            <a href="/image-gallery" className="menu-a">Images</a>
+                        </li>
+                
                     </ul>
                 </div>
             </div>
